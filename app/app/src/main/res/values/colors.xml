@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="accent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_bg">#F8F9FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="gradient_start">#6200EE</color>
+    <color name="gradient_end">#9D46FF</color>
+
+    <color name="weather_card_bg">#E3F2FD</color>
+    <color name="itinerary_card_bg">#F1F8E9</color>
+    <color name="checklist_card_bg">#FFF3E0</color>
+</resources>
